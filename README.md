@@ -1,5 +1,6 @@
 # hello-world
+first
 
-Hi humans
+This is the 2nd modification.
 
-I 'm lerning Github!
+Don't know how to delete branch..
